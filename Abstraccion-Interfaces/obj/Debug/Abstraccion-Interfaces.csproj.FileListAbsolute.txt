@@ -1,0 +1,8 @@
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\bin\Debug\Abstraccion-Interfaces.exe.config
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\bin\Debug\Abstraccion-Interfaces.exe
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\bin\Debug\Abstraccion-Interfaces.pdb
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\obj\Debug\Abstraccion-Interfaces.csproj.AssemblyReference.cache
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\obj\Debug\Abstraccion-Interfaces.csproj.SuggestedBindingRedirects.cache
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\obj\Debug\Abstraccion-Interfaces.csproj.CoreCompileInputs.cache
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\obj\Debug\Abstraccion-Interfaces.exe
+E:\Otros Proyectos\Abstraccion-Interfaces\Abstraccion-Interfaces\obj\Debug\Abstraccion-Interfaces.pdb
